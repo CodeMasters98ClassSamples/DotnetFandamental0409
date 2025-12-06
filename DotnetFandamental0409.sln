@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetFandamental0409.LearningConsoleApp", "DotnetFandamental0409.LearningConsoleApp\DotnetFandamental0409.LearningConsoleApp.csproj", "{BB7E5D40-91CF-4BE9-9955-810359F02019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7E5D40-91CF-4BE9-9955-810359F02019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7E5D40-91CF-4BE9-9955-810359F02019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7E5D40-91CF-4BE9-9955-810359F02019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7E5D40-91CF-4BE9-9955-810359F02019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC896DC2-2F10-4EBF-AC23-9D44649991FA}
+	EndGlobalSection
+EndGlobal
