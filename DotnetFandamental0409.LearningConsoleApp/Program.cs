@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World2!");
+            //C# CaseSensitive
+            Console.WriteLine("What is your name!");
+
+            //DataType NameOfVaribale;
+
+            string name = Console.ReadLine();
+
+            //string concat
+            Console.WriteLine("Thank you" + name);
         }
     }
 }
